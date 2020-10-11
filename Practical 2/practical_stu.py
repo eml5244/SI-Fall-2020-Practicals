@@ -1,5 +1,6 @@
 import arrays
 import random
+import testing
 import turtle
 
 """
@@ -32,13 +33,12 @@ def find_elements(filename, letter):
 """
 Recursion
 
-First, write a function that draws a square given a length.
-Next, write a function that recrusively draws smaller squares in each corner of the square given a length and a depth.
+Write a function that recursively computes the gcd of two numbers given as parameters. Then, write at least one test function to test your gcd function.
 """
-def draw_square(length):
+def gcd(num1, num2):
     return None
 
-def draw_squares_rec(length, depth):
+def test_gcd():
     return None
 
 """
