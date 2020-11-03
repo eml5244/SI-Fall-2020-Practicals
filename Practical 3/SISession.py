@@ -11,6 +11,6 @@ During the SI Session, an SI Leader must keep track of total attendance and stud
 A session is identified with a string that consists of the week number followed by 'A' if this is the first session of the week, and 'B' if this is the second session of the week.
 """
 
-# Create a text file that contains your noun-verb analysis process. 
+# Use the provided file 'SISession_analysis.txt' for your noun-verb analysis process. 
 
 # Create a basic implementation for the classes that you identified through noun-verb analysis. While making your implementation, make sure to use good encapsulation processes.
